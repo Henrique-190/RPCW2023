@@ -1,0 +1,177 @@
+{
+  "pessoas":[
+    {
+      "nome": "Henriqueta Amália de Anhalt-Dessau",
+      "dataNascimento" : "16 de agosto de 1666",
+      "localNascimento" : "Cleves, Alemanha",
+      "descrição" : "Princesa de Anhalt-Dessau por nascimento e princesa de Nassau-Dietz pelo seu casamento com o príncipe Henrique Casimiro II de Nassau-Dietz.",
+      "pai" : "João Jorge II de Anhalt-Dessau",
+      "mãe" : "Henriqueta Catarina de Orange-Nassau",
+      "marido" : ["Henrique Casimiro II de Nassau-Dietz"],
+      "filhos" : [
+          "Henrique Jorge de Nassau-Dietz",
+          "Henriqueta Albertina de Nassau-Dietz",
+          "João Guilherme Friso de Nassau-Dietz",
+          "Maria Amália de Nassau-Dietz",
+          "Sofia Edviges de Nassau-Dietz",
+          "Isabel Carlota de Nassau-Dietz",
+          "Joana Inês de Nassau-Dietz",
+          "Luísa Leopoldina de Nassau-Dietz",
+          "Henriqueta Casimira de Nassau-Dietz"
+      ],
+      "dataMorte" : "18 de abril de 1726",
+      "localMorte" : "Diez, Alemanha"
+    },
+    {
+      "nome": "Henriqueta de França",
+      "dataNascimento": "14 de agosto de 1727",
+      "localNascimento": "Palácio de Versalhes, Versalhes, França",
+      "descrição": "Princesa francesa e irmã gêmea de Luísa Isabel da França. Era a segunda filha do rei Luís XV de França e sua esposa Maria Leszczyńska",
+      "pai": "Luís XV de França",
+      "mãe": "Maria Leszczyńska",
+      "marido": [],
+      "filhos": [],
+      "dataMorte": "10 de fevereiro de 1752",
+      "localMorte": "Palácio de Versalhes, Versalhes, França"
+    },
+    {
+      "nome": "Henriqueta Ana da Inglaterra",
+      "dataNascimento" : "16 de junho de 1644",
+      "localNascimento" : "Casa Bedford, Exeter, Inglaterra",
+      "descrição" : "Princesa inglesa pelo nascimento e princesa francesa e Duquesa de Orleães pelo casamento com Filipe, Duque de Orleães, irmão mais novo do rei Luís XIV.",
+      "pai" : "Carlos I da Inglaterra",
+      "mãe" : "Henriqueta Maria da França",
+      "marido" : ["Filipe, Duque de Orleães"],
+      "filhos" : [
+        "Maria Luísa de Orleães",
+        "Filipe Carlos, Duque de Valois",
+        "Ana Maria de Orleães"
+      ],
+      "dataMorte" : "30 de junho de 1670",
+      "localMorte" : "Castelo de Saint-Cloud, Saint-Cloud, França"
+    },
+    {
+      "nome": "Henriqueta Catarina de Orange-Nassau",
+      "dataNascimento" : "10 de fevereiro de 1637",
+      "localNascimento" : "Haia, Países Baixos",
+      "descrição" : "Filha do stadholder Frederico Henrique de Orange e da sua esposa, a condessa Amália de Solms-Braunfels. Através do seu casamento com o príncipe João Jorge II de Anhalt-Dessau, tornou-se membro da casa de Ascânia.",
+      "pai" : "Frederico Henrique de Orange",
+      "mãe" : "Amália de Solms-Braunfels",
+      "marido" : ["João Jorge II de Anhalt-Dessau"],
+      "filhos" : [
+        "Amália Luísa de Anhalt-Dessau",
+        "Henriqueta Amália de Anhalt-Dessau",
+        "Frederico Casimiro, príncipe-herdeiro de Anhalt-Dessau",
+        "Isabel Albertina de Anhalt-Dessau",
+        "Henriqueta Amália de Anhalt-Dessau",
+        "Luísa Sofia de Anhalt-Dessau",
+        "Maria Leonor de Anhalt-Dessau",
+        "Henriqueta Inês de Anhalt-Dessau",
+        "Leopoldo I de Anhalt-Dessau",
+        "Joana Carlota de Anhalt-Dessau"
+      ],
+      "dataMorte" : "3 de novembro de 1708",
+      "localMorte" : "Unknown"
+    },
+    {
+      "nome": "Henriqueta Doroteia de Hesse-Darmestádio",
+      "dataNascimento" : "14 de outubro de 1641",
+      "localNascimento" : "Darmestádio, Alemanha",
+      "descrição" : "Décima-primeira filha do conde Jorge II de Hesse-Darmestádio e da princesa Sofia Leonor da Saxónia e condessa de Waldeck-Pyrmont.",
+      "pai" : "Jorge II de Hesse-Darmestádio",
+      "mãe" : "Sofia Leonor da Saxónia",
+      "marido" : ["João II de Waldeck-Pyrmont"],
+      "filhos" : [],
+      "dataMorte" : "22 de dezembro de 1672",
+      "localMorte" : "Landau, Alemanha"
+    },
+    {
+      "nome": "Henriqueta d'Este",
+      "dataNascimento" : "27 de maio de 1702",
+      "localNascimento" : "Palácio Ducal de Módena, Itália",
+      "descrição" : "Nobre italiana. Era duquesa de Parma pelo seu casamento com António Farnésio, duque de Parma, seu primo direito e tio de Isabel Farnésio, rainha de Espanha.",
+      "pai" : "Reinaldo III de Módena",
+      "mãe" : "Carlota Felicidade de Brunsvique-Luneburgo",
+      "marido" : ["António Farnésio", "Leopoldo de Hesse-Darmestádio"],
+      "filhos" : [],
+      "dataMorte" : "30 de janeiro de 1777",
+      "localMorte" : "Fidenza, Parma"
+    },
+    {
+      "nome": "Henriqueta Maria de França",
+      "dataNascimento" : "25 de novembro de 1609",
+      "localNascimento" : "Palácio do Louvre, Paris, França",
+      "descrição" : "Esposa do rei Carlos I e Rainha Consorte do Reino da Inglaterra, Reino da Escócia e Reino da Irlanda de 1625 até 1649.",
+      "pai" : "Henrique IV de França",
+      "mãe" : "Maria de Médici",
+      "marido" : ["Carlos I de Inglaterra"],
+      "filhos" : [
+        "Carlos II de Inglaterra",
+        "Maria, Princesa Real e Princesa de Orange",
+        "Jaime II de Inglaterra & VII da Escócia",
+        "Isabel de Inglaterra",
+        "Ana de Inglaterra",
+        "Henrique, Duque de Gloucester",
+        "Henriqueta Ana, Duquesa de Orleães"
+      ],
+      "dataMorte" : "10 de setembro de 1669",
+      "localMorte" : "Château de Colombes, Colombes, França"
+    },
+    {
+      "nome": "Henriqueta de Nassau-Weilburg",
+      "dataNascimento" : "30 de outubro de 1797",
+      "localNascimento" : "Bayreuth, Reino da Baviera",
+      "descrição" : "Princesa de Nassau-Weilburg por nascimento, arquiduquesa da Áustria e duquesa de Teschen pelo casamento.",
+      "pai" : "Frederico Guilherme, Príncipe de Nassau-Weilburg",
+      "mãe" : "Luísa Isabel de Kirchberg",
+      "marido" : ["Carlos, Duque de Teschen"],
+      "filhos" : [
+        "Maria Teresa Isabel da Áustria",
+        "Alberto, Duque de Teschen",
+        "Carlos Fernando da Áustria",
+        "Frederico da Áustria",
+        "Rodolfo da Áustria",
+        "Maria Carolina da Áustria",
+        "Guilherme Francisco da Áustria"
+      ],
+      "dataMorte" : "29 de dezembro de 1829",
+      "localMorte" : "Viena, Império Austríaco"
+    },
+    {
+      "nome": "Henriqueta de Nassau-Weilburg",
+      "dataNascimento" : "22 de abril de 1780",
+      "localNascimento" : "Kirchheimbolanden, Alemanha",
+      "descrição" : "Filha do príncipe Carlos Cristiano de Nassau-Weilburg.",
+      "pai" : "Carlos Cristiano, Príncipe de Nassau-Weilburg",
+      "mãe" : "Carolina de Orange-Nassau",
+      "marido" : ["Luís, Duque de Württemberg"],
+      "filhos" : [
+        "Maria Doroteia de Württemberg",
+        "Amélia de Württemberg",
+        "Paulina Teresa de Württemberg",
+        "Isabel Alexandrina de Württemberg",
+        "Alexandre de Württemberg"
+      ],
+      "dataMorte" : "2 de janeiro de 1857",
+      "localMorte" : "Kirchheim unter Teck, Alemanha"
+    },
+    {
+      "nome": "Henriqueta de Nevers",
+      "dataNascimento" : "31 de outubro de 1542",
+      "localNascimento" : "La Chapelle-d’Angillon, Reino da França",
+      "descrição" : "Nobre francesa, herdeira da família de Cleves que detinha o ducado de Nevers e o condado de Rethel.",
+      "pai" : "Francisco I, 1º Duque de Nevers e Conde de Rethel",
+      "mãe" : "Margarida de Bourbon-La Marche",
+      "marido" : ["Luís Gonzaga, Duque de Nevers"],
+      "filhos" : [
+        "Catarina, Duquesa de Longueville",
+        "Henriqueta, Duquesa de Mayenne",
+        "Frederico Gonzaga",
+        "Francisco Gonzaga",
+        "Carlos I de Mântua"
+      ],
+      "dataMorte" : "24 de junho de 1601",
+      "localMorte" : "Hotel de Nevers, Paris, Reino da França"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <título>Era uma vez...</título>
+        <subtítulo>Este é opcional</subtítulo>
+        <data>AAAA-MM-DD</data>
+        <autor>
+            <nome>Nome do autor</nome>
+            <id>...</id>
+            <gitlink>Link para o repositório</gitlink>
+        </autor>
+        <uc>Designação da UC</uc>
+    </meta>
+    <resumo>
+        <p>Para 1... <b>isto fica a bold</b></p>
+        <p>Para 2 <i>isto fica a itálico</i>...</p>
+        <p>Para 3 com uma <xref url="URL para o recurso">referência externa</xref>...</p>
+    </resumo>
+    <resultados>
+        <resultado path="link para o ficheiro">Descrição do que é</resultado>
+    </resultados>
+</manifesto>
