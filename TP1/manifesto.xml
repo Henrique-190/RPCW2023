@@ -1,22 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
 <manifesto>
     <meta>
-        <título>Era uma vez...</título>
-        <subtítulo>Este é opcional</subtítulo>
-        <data>AAAA-MM-DD</data>
+        <título>TPC1</título>
+        <data>2023-02-19</data>
         <autor>
-            <nome>Nome do autor</nome>
-            <id>...</id>
-            <gitlink>Link para o repositório</gitlink>
+            <nome>Henrique Alvelos</nome>
+            <id>PG50414</id>
+            <gitlink>https://github.com/Henrique-190/RPCW2023</gitlink>
         </autor>
-        <uc>Designação da UC</uc>
+        <uc>Representação e Processamento de Conhecimento na Web</uc>
     </meta>
     <resumo>
-        <p>Para 1... <b>isto fica a bold</b></p>
-        <p>Para 2 <i>isto fica a itálico</i>...</p>
-        <p>Para 3 com uma <xref url="URL para o recurso">referência externa</xref>...</p>
+        Geradores de HTML a partir de ficheiros XML (Mapa Virtual e Página H).
     </resumo>
     <resultados>
-        <resultado path="link para o ficheiro">Descrição do que é</resultado>
+        <resultado path="Henriqueta/henriqueta.html">Ficheiro HTML da página H</resultado>
+        <resultado path="MapaVirtual/mapa.html">Ficheiro HTML da página do Mapa Virtual</resultado>
     </resultados>
 </manifesto>

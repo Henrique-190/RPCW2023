@@ -1,0 +1,23 @@
+<manifesto>
+    <meta>
+        <título>TPC2</título>
+        <data>2023-02-26</data>
+        <autor>
+            <nome>Henrique Alvelos</nome>
+            <id>PG50414</id>
+            <gitlink>https://github.com/Henrique-190/RPCW2023</gitlink>
+        </autor>
+        <uc>Representação e Processamento de Conhecimento na Web</uc>
+    </meta>
+    <resumo>
+            Desmembramento de um ficheiro XML em vários ficheiros XML, cada um com um elemento raiz diferente, 
+        seguido de um servidor web que gere pedidos e devolve o conteúdo dos ficheiros XML criados.
+            Criação de um ficheiro HTML com a indexação de todos os ficheiros XML criados.
+            Conversão dos ficheiros XML criados para HTML e alteração do servidor web para que devolva também 
+        este conteúdo
+    </resumo>
+    <resultados>
+        <resultado path="dataHTML/">Pasta com todos os ficheiros HTML criados a partir dos ficheiros XML + index.hml</resultado>
+        <resultado path="dataXML">Pasta com todos os ficheiros XML criados</resultado>
+    </resultados>
+</manifesto>
